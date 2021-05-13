@@ -22,7 +22,7 @@ Code reproduces NSynth results from the main paper and supplementary materials, 
 
 ### Transfer
 
-- ``Analyze-Classifcation.ipynb``
+- ``Analyze-Classifcation.ipynb``: Code to plot and analyze results of the ``Classify-IF.ipynb``, ``Classify-Pitch.ipynb``, ``Classify-Untrained.ipynb`` and ``Classify-Velocity.ipynb`` notebooks.
 - ``Classify-IF.ipynb``: Use deep features from all layers trained to classify Instrument Family to classify Instrument Family with logistic regression and to predict Note Pitch and Note Velocity via linear regression.
 - ``Classify-Pitch.ipynb``: Use deep features from all layers trained to predict Note Pitch to classify Instrument Family with logistic regression and to predict Note Pitch and Note Velocity via linear regression.
 - ``Classify-Untrained.ipynb``: Use deep features from all layers of the untrained Regular and Deformable architectures to classify Instrument Family, and predict Note Pitch and Note Velocity.
