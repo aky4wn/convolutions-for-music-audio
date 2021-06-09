@@ -1,6 +1,6 @@
 # convolutions-for-music-audio
 
-Code for "Towards Explainable Convolutional Features for Music Audio Modeling",https://arxiv.org/abs/2106.00110.
+Code for "Towards Explainable Convolutional Features for Music Audio Modeling", https://arxiv.org/abs/2106.00110.
 
 Code reproduces NSynth results from the main paper and supplementary materials, as this data is publically available and the results are directly reproducible.  Code for the Composer and Beethoven dataset results is analogous; this data is not directly publically available, but results are reproducible with the same input data.  All results are as IPython notebooks and additional details about the code are found in S2.6 of the Supplementary Materials.
 
